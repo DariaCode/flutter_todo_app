@@ -5,7 +5,7 @@
 
 ## Setup
 
-Follow [this guide](https://flutter.dev/docs/get-started/install) 
+Follow [this guide](https://flutter.dev/docs/get-started/install):
 
 - Install Flutter
 - Do one of the following:
