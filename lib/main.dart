@@ -165,18 +165,18 @@ class TodoTile extends StatelessWidget {
       decoration: BoxDecoration(
         border: Border.all(color: Colors.grey[400]),
         borderRadius: BorderRadius.all(Radius.circular(12))
-        ), // Birder.all // BoxDecoration
+        ),
       child: Row(
         children: [
           Checkbox(
             value: this.isDone,
             onChanged: (bool newVal) => toggle(newVal, index),
             activeColor: Colors.green,
-            ), // Checkbox
+            ), 
           Text(title),
         ],
       )
-    );// Row // Container
+    );
   }
 
 }

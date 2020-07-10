@@ -1,6 +1,7 @@
 # Flutter Todo app
 
-A new Flutter project.
+![](img/iPhone SE_1.png)
+![](img/iPhone SE_2.png)
 
 ## Setup
 
