@@ -1,7 +1,7 @@
 # Flutter Todo app
 
-![](./img/iPhoneSE_1.png)
-![](img/iPhone SE_1.png)
+![](img/iPhoneSE_1.jpg)
+![](img/iPhoneSE_2.jpg)
 
 ## Setup
 
