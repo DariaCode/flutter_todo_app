@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
       title: 'Todo list',
       theme: ThemeData(
         visualDensity: VisualDensity.adaptivePlatformDensity,
-        primaryColor: Colors.green[600],
+        primaryColor: Colors.green[500],
         textTheme: TextTheme(
           headline1: TextStyle(
             fontSize: 22,
